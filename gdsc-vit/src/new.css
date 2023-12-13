@@ -1,0 +1,10 @@
+
+.new {
+    color: rgb(1, 19, 19);
+    background-color: rgb(227, 177, 127);
+
+}
+body{
+    background-image: url("sali.jpg");
+    background-size: cover;
+}
