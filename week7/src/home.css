@@ -1,0 +1,67 @@
+:root{
+  background-image: url(./assets/bac.jpg);
+  background-attachment: fixed;
+  background-repeat:no-repeat;
+  background-size:cover; 
+  
+ /* filter: blur(10px); */
+}
+#welcome{
+    float: right;
+ color: aliceblue;
+ margin-top: 300px;
+  
+}
+.wel{
+    /* width: 80vw; Set the width to 100% of the viewport width */
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 500px; 
+    background-image:url(./assets/we.jpg) ;
+    
+    
+    background-size:fill;
+    background-attachment:scroll;
+    background-repeat:repeat;
+    background-position: center bottom;
+    position: center;
+   
+}
+.we{
+    margin-top:30Px;
+    display: flex;
+    justify-content:space-around;
+}
+#wei{
+    float: right;
+    color: aliceblue;
+    margin-top: 450px;  
+}
+#well{
+    width: 500px;
+    height: 500px;
+    
+    
+    background-image:url(./assets/neck3.jpg);
+    background-size:cover; 
+    background-repeat:no-repeat; 
+}
+#welll{
+    width: 500px;
+    height: 500px;
+    background-image:url(./assets/wel9.jpg);
+    background-size:cover;  
+}
+.main1{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(243, 160, 52);
+    margin-top: 30px;
+    border-radius: 10px;
+}
+.plus{
+    color: aliceblue;
+    margin-top: 20px;
+}
+  
+  

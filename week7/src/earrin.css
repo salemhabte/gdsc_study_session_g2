@@ -1,0 +1,49 @@
+.contain{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.word{
+    width: 62%;
+    margin-top: 40px;
+    color: aliceblue;
+}
+.img{
+    width: 35%;
+    background-size: cover;
+    filter: brightness(0.8);
+}
+.ear-image {
+    width: 100%;
+    height: auto;
+  }
+  .par{
+    font-weight: bold;
+  }
+  .intt{
+    width: 40px;
+    height: 35px;
+  }
+  .btn{
+    width: 40px;
+    height: 40px;
+  }
+  .di{
+    margin-top: 30px;
+  }
+  #btn{
+    border-radius: 25px;
+    margin-left: 20px;
+    width: 170px;
+    height: 40px;
+  }
+  /* body{
+    background-image: url(./assets/earback.jpg);
+
+  } */
+  .par{
+    color: aliceblue;
+  }
+  h1{
+    color: aliceblue;
+  }
