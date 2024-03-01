@@ -1,0 +1,27 @@
+body {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: aquamarine;
+}
+
+.todo-app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin-left: 10px;
+}
+
+.todo-app-container {
+  text-align: center;
+  margin-left: 10px;
+}
+.add{
+  margin-left: 10px;
+}
+.todo{
+  margin-left: 10px;
+}
+
