@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e3a2df;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  #todoInput {
+    width: 300px;
+    padding: 5px;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 5px 10px;
+    background-color: #e56ef5;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  
+  button:hover {
+    background-color: #c8ecca;
+  }
+  
+  li {
+    margin-bottom: 5px;
+  }
+  
+  .deleteBtn {
+    background-color: #f44336;
+    color: white;
+    border: none;
+    padding: 2px 5px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
+  
+  .editBtn {
+    background-color: #2196f3;
+    color: white;
+    border: none;
+    padding: 2px 5px;
+    cursor: pointer;
+    margin-left: 10px;
+  }
